@@ -4,3 +4,6 @@ keyword:
 position - vị trí 
 absolute - tuyệt đối
 relative - quan hệ
+sticky - dính (bám dính )
+initial - ban đầu
+inherit - thừa kế
